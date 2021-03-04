@@ -1,0 +1,8 @@
+Line 1: Two households, both alike in dignity, (31)(2)
+Line 2: In fair Verona, where we lay our scene, (30)(2)
+Line 3: From ancient grudge break to new mutiny, (33)(1)
+Line 4: Where civil blood makes civil hands unclean. (37)(1)
+Line 5: From forth the fatal loins of these two foes (36)(0)
+Line 6: A pair of star-cross'd lovers take their life; (36)(2)
+Line 7: Whose misadventured piteous overthrows (35)(0)
+Line 8: Do with their death bury their parents' strife. (38)(2)
